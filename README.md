@@ -1,4 +1,21 @@
-# flutter_starter_kit
+# Flutter Starter Kit
+
+#### Packages used (till now)
+1. Dio (for networking)
+2. Provider (for state manegement)
+
+#### Directory Structure
+    _lib
+    |_config
+    |___networking
+    |_____models
+    |_____Api.dart  (all api configs here)
+    |
+    |_provider
+    |__All providers folders here according to your app
+    
+
+
 
 A new Flutter project.
 
